@@ -7,7 +7,7 @@ library(ggplot2)
 
 shinyUI(fluidPage(
     
-    theme = bslib::bs_theme(bootswatch = "sandstone"),
+    #theme = bslib::bs_theme(bootswatch = "sandstone"),
     
     titlePanel("単回帰のシミュレーション"),
     
